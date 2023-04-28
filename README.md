@@ -1,5 +1,3 @@
-Great to hear that you're aspiring to become an AWS & DevOps Engineer! Here's an example of how you could introduce yourself with a profile README on GitHub:
-
 # Hi there, I'm Atiq Khan!
 
 I am an aspiring AWS & DevOps Engineer with a keen interest in Cloud Computing, Infrastructure as Code, and Continuous Delivery. I am passionate about designing, implementing, and maintaining highly available, scalable, and fault-tolerant solutions on the cloud.
