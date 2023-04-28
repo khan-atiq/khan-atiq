@@ -24,7 +24,7 @@ I'm constantly learning and expanding my knowledge in the following areas:
 
 ## 🔗 Connect
 
-- [LinkedIn]([(https://www.linkedin.com/in/atiqahmad-khan-9022/)])
+- [LinkedIn] ([(https://www.linkedin.com/in/atiqahmad-khan-9022/)])
 
 Feel free to reach out to me if you have any questions or if you want to collaborate on a project. Let's learn and grow together!
 
