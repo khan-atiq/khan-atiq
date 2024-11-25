@@ -1,6 +1,6 @@
 # Hi there, I'm Atiq Khan!
 
-I am an aspiring DevOps Engineer with a keen interest in Cloud Computing, Infrastructure as Code, and Continuous Delivery. I am passionate about designing, implementing, and maintaining, deploying highly available, scalable, and fault-tolerant solutions.
+I am a DevOps Engineer with a keen interest in Automation, Cloud Computing, Infrastructure as Code, and Continuous Delivery. I am passionate about designing, implementing, and maintaining, deploying highly available, scalable, and fault-tolerant solutions.
 
 
 ## 🔗 Connect
